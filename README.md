@@ -10,5 +10,8 @@ The students can even renewal using credit card or transfer methods.
 <img src="/WebApplication12\images\SCR1.PNG">
 <h3>Login Page</h3>
 <img src="/WebApplication12\images\SCR2.PNG">
+<h3>Admin DashBoard</h3>
+<img src="/WebApplication12\images\SCR4.PNG">
+P.S : Data inside the image are just demo data
 <h3>Feedback Page</h3>
 <img src="/WebApplication12\images\SCR3.PNG">
